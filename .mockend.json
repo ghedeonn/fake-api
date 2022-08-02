@@ -15,10 +15,10 @@
         ]
     },
     "description": {
-        "loremSentences": [
+        "loremSentences": {
           "minLength": 100,
           "maxLength": 200
-        ]
+        }
     },
     "persons": {
       "int": {
