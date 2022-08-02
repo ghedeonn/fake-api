@@ -7,6 +7,12 @@
             "ALL-IN-ONE"
         ]
     },
+    "table_description": {
+        "loremSentences": {
+          "minLength": 100,
+          "maxLength": 200
+        }
+    },
     "drinks_snaks": {
         "string": [
             "DRINKS ONLY",
@@ -14,7 +20,7 @@
             "DRINKS & PARTY"
         ]
     },
-    "description": {
+    "drinks_snaks_description": {
         "loremSentences": {
           "minLength": 100,
           "maxLength": 200
