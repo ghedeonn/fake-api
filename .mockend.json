@@ -1,20 +1,18 @@
 {
   "Post": {
-    "zone": {
-      "name": {
-        "loremWords": {
-          "minLength": 5,
-          "maxLength": 20
-        }
-      }
+    "table": {
+        "string": [
+            "TABLE",
+            "ZONE",
+            "ALL-IN-ONE"
+        ]
     },
     "drinks_snaks": {
-      "name": {
-        "loremWords": {
-          "minLength": 5,
-          "maxLength": 20
-        }
-      }
+        "string": [
+            "DRINKS ONLY",
+            "DRINKS & SNACKS",
+            "DRINKS & PARTY"
+        ]
     },
     "persons": {
       "int": {
