@@ -6,7 +6,7 @@
           "minLength": 5,
           "maxLength": 20
         }
-      },
+      }
     },
     "drinks_snaks": {
       "name": {
@@ -14,7 +14,7 @@
           "minLength": 5,
           "maxLength": 20
         }
-      },
+      }
     },
     "persons": {
       "int": {
